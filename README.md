@@ -12,21 +12,21 @@ H. Cetak “Bilangan Terbesar Bilangan Pertama”.
 I. Cetak “Bilangan Terbesar Bilangan Kedua”.
 J. Cetak “Bilangan Terbesar Bilangan Ketiga”.
 K. Selesai
-# ![GitHub Logo] (flowchart.jpg) <h2>
+# ![GitHub Logo](flowchart.jpg) <h2>
 
-# Hasil Program dan eksekusi <h2>
+# Hasil Program dan eksekusi
 Program setelah dibuat dari algoritma di atas
-# ![GitHub Logo] (Gambar1.jpg) <h2>
+# ![GitHub Logo](Gambar1.JPG) <h2>
 
 
 Penjelasan program
 inisialisasi dan input
-# ![GitHub Logo] (Gambar2.jpg) <h2>
+# ![GitHub Logo](Gambar2.jpg) <h2>
 
 
 Percabangan
-# ![GitHub Logo] (Gambar3.jpg) <h2>
+# ![GitHub Logo](Gambar3.jpg) <h2>
 
 
 Hasil eksekusi Program
-# ![GitHub Logo] (Gambar4.jpg) <h2>
+# ![GitHub Logo](Gambar4.jpg) <h2>
