@@ -1,4 +1,5 @@
 # labspy02
+# Algoritma menentukanbilangan terbesar dari 3 bilangan
 
 
 * Mulai
@@ -12,6 +13,8 @@
 * Cetak “Bilangan Terbesar Bilangan Kedua”.
 * Cetak “Bilangan Terbesar Bilangan Ketiga”.
 * Selesai
+
+# Flowchart menentukan bilangan terbesar dari 3 bilangan
 # ![GitHub Logo](flowchart.jpg) <h2>
 
 # Hasil Program dan eksekusi
@@ -30,3 +33,4 @@ Percabangan
 
 Hasil eksekusi Program
 # ![GitHub Logo](Gambar4.jpg) <h2>
+
